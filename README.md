@@ -32,7 +32,7 @@ sudo cp libs/VIM3/libtim-vx.so /usr/bin/aarch64-linux-gnu/
 
 If you are running on VIM3L:
 ```shell
-sudo cp libs/VIM3L/libtim-vx.so /usr/bin/aarch64-linux-gnu/
+sudo cp libs/VIM3L/libtim-vx.so /usr/bin/
 ```
 
 Try the examples

@@ -27,12 +27,12 @@ sudo ln /usr/lib/libOpenVX.so /usr/lib/libOpenVX.so.1
 ### Copy the necessary library files
 If you are running on VIM3:
 ```shell
-sudo cp libs/VIM3/libtim-vx.so /usr/bin/aarch64-linux-gnu/
+sudo cp libs/VIM3/libtim-vx.so /usr/lib/aarch64-linux-gnu/
 ```
 
 If you are running on VIM3L:
 ```shell
-sudo cp libs/VIM3L/libtim-vx.so /usr/bin/
+sudo cp libs/VIM3L/libtim-vx.so /usr/lib/
 ```
 
 Try the examples

@@ -2,7 +2,7 @@
 TFlite implementations from https://github.com/sravansenthiln1/armnn_tflite/
 adapted to run on Verisilicon's Vivante NPU hardware platform.
 
-Compatible with VIM3/3L, on the 4.9 kernel.
+Compatible with VIM3/3L, on the 4.9 and 5.15 kernel.
 
 ### Install pip
 ```shell

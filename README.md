@@ -42,3 +42,5 @@ Try the examples
 * [Digit recognize Model](./digit_recognize/) - Digit recognization model
 
 * [Mobilenet v1 Model](./mobilenet_v1/) - Mobilenet v1 image classification model
+
+* [YOLOv8n Model](./yolov8n/) - YOLOv8n image detection model

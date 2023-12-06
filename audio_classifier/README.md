@@ -1,4 +1,4 @@
-# Image classification using Tensorflow Lite
+# Audio classification using Tensorflow Lite
 Original implementation: https://github.com/sravansenthiln1/armnn_tflite/tree/main/audio_classifier
 
 ### Add symlinks for libraries
